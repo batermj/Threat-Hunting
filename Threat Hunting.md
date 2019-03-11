@@ -16,4 +16,10 @@ Threat Hunting 威胁狩猎资料合集
 - https://github.com/JPCERTCC/SysmonSearch
 - https://github.com/JPCERTCC/LogonTracer
 - https://github.com/123061/windows-Threat-tracking
+- https://github.com/krakow2600/atomic-threat-coverage
+- https://eqllib.readthedocs.io/en/latest/atomicblue.html
+- https://github.com/Microsoft/WindowsDefenderATP-Hunting-Queries
+- https://car.mitre.org/
+- https://github.com/Cyb3rWard0g/ThreatHunter-Playbook
+- 
 
