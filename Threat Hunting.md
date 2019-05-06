@@ -1,7 +1,9 @@
-Threat Hunting [威胁狩猎资料合集]()
+Threat Hunting 威胁狩猎资料合集
 
 网络流量威胁狩猎：
 - https://www.freebuf.com/articles/network/202634.html   基于统计分析的ICMP隧道检测方法与实现
+- https://mp.weixin.qq.com/s/zEg1Ds0WtV2pwJJynO5ZSQ  威胁猎杀实战（四）：加密流量威胁检测 
+- https://mp.weixin.qq.com/s/0y1jvR1rh-PgFb9qshQXng  威胁猎杀实战（五）：DNS隧道检测 
 
 Windows威胁狩猎：
 - https://github.com/infosecn1nja/AD-Attack-Defense    AD杀伤链攻击与防御
