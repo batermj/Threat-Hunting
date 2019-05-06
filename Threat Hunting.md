@@ -14,6 +14,7 @@ Windows威胁狩猎：
 - https://github.com/Microsoft/WindowsDefenderATP-Hunting-Queries   Windows Defender ATP中高级搜索的示例查询
 - https://github.com/Th1ru-M/Threat-Hunting   威胁狩猎
 - https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES  windows威胁狩猎攻击-日志
+- https://blog.menasec.net/   windows狩猎
 
 Linux 威胁狩猎：
 - 无
