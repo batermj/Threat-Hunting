@@ -13,6 +13,7 @@ Windows威胁狩猎：
 - https://github.com/JPCERTCC/DetectLM   JPCERT关于利用机器学习检测横向运动
 - https://github.com/Microsoft/WindowsDefenderATP-Hunting-Queries   Windows Defender ATP中高级搜索的示例查询
 - https://github.com/Th1ru-M/Threat-Hunting   威胁狩猎
+- https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES  windows威胁狩猎攻击-日志
 
 Linux 威胁狩猎：
 - 无
