@@ -18,7 +18,7 @@ Linux 威胁狩猎：
 - 无
 
 
-UEBA系列
+UEBA系列：
 - https://www.secpulse.com/archives/95668.html  UEBA架构设计之路1：UEBA框架
 - https://www.secpulse.com/archives/96063.html  UEBA架构设计之路2：数据接入和准备
 - https://www.secpulse.com/archives/96049.html  UEBA架构设计之路3：复杂事件处理引擎
