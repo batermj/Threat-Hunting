@@ -25,6 +25,10 @@ UEBA系列
 - https://www.secpulse.com/archives/99655.html  UEBA架构设计之路4：异常、威胁指标和威胁
 - https://www.secpulse.com/archives/101723.html UEBA架构设计之路5： 概率后缀树模型
 - https://www.secpulse.com/archives/105193.html UEBA架构设计之路6： 图聚类
+- https://mp.weixin.qq.com/s/Y_mAd-IA4rAra1FqfZc8JQ  员工风险与UEBA
+- https://mp.weixin.qq.com/s/bm8jK8mLsYkWNH_fwIcPAg  实践：UEBA视角下的威胁情报聚类与攻击者分析 
+
+
 
 
 工具使用：
