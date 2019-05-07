@@ -15,6 +15,7 @@ Windows威胁狩猎：
 - https://github.com/Th1ru-M/Threat-Hunting   威胁狩猎
 - https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES  windows威胁狩猎攻击-日志
 - https://blog.menasec.net/   windows狩猎
+- https://ired.team/  基于ATT&CK技战术的威胁狩猎
 
 Linux 威胁狩猎：
 - 无
